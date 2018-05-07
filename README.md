@@ -1,10 +1,10 @@
-# [biogrid-namer](http://nickmccurdy.com/biogrid-namer/)
+# [biogrid-namer](https://nickmccurdy.com/biogrid-namer/)
 
 [![Code Climate](https://codeclimate.com/github/thenickperson/biogrid-namer.png)](https://codeclimate.com/github/thenickperson/biogrid-namer)
 
 ## About
 Produces amusing names for BioGrid, the next RapDev project for the <a
-href="http://sse.se.rit.edu">Society of Software Engineers</a>.
+href="https://sse.rit.edu/">Society of Software Engineers</a>.
 
 Please note that this software is a personal project of mine, and not of the
 Society of Software Engineers.
